@@ -1,6 +1,7 @@
 import React from 'react'
-import Header from './src\components\header.jsx'
-import Footer from './footer'
+import Header from "./header.jsx";
+import Footer from "./footer.jsx";
+
 
 export default function Layout({ children }) {
   return (
